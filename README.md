@@ -3,8 +3,7 @@
    1. all things Python
    2. cohort-centered peer-to-peer learning
    3. digital marketing 
-- 🌱 I’m currently learning [Pollen](https://docs.racket-lang.org/pollen/) and [Beautiful Racket](https://beautifulracket.com/)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, HTML, and CSS.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/terrelshumway/)
 
 <!---
